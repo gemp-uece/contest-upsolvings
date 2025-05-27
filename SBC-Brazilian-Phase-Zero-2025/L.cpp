@@ -1,4 +1,4 @@
-// problem: https://codeforces.com/gym/105925/problem/I
+// problem: https://codeforces.com/gym/105925/problem/L
 
 #include <bits/stdc++.h>
 using namespace std;
